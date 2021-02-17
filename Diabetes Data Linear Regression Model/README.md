@@ -12,3 +12,4 @@ Steps:
 7) Find out the prediction results slope, intercept, mse, r_square
 8) More the r_square, more will be the accuracy of the model, so based on that make changes on train and test size of split
 9) Find Adjusted R Square, using which we can eliminate features and decide which ones are helpul for the model accuracy
+10) Creating a scatterplot to plot of the Y actual/Y test with Y predicted data
